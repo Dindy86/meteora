@@ -1,0 +1,27 @@
+.lemon-green{
+   color: #DAFF01;
+}
+
+.facilities-content{
+    width: 20rem;
+}
+
+.facilities-text{
+    font-size: 13px;
+}
+
+.newsletter{
+    width: 325px;
+}
+
+.btn-lilacs{
+    background-color: #9353FF;
+}
+
+@media(min-width: 768px) {
+
+    .newsletter {
+        width: 696px;
+    }
+
+}
